@@ -1,6 +1,5 @@
-==============
-Validate_email
-==============
+validate_email_aio
+==================
 
 Validate_email is a package for Python that check if an email is valid, properly formatted and really exists.
 
@@ -50,4 +49,4 @@ Check if the host has SMTP Server and the email really exists::
 
 TODOs and BUGS
 ==============
-See: http://github.com/syrusakbary/validate_email/issues
+See: http://github.com/hwmrocker/validate_email_aio/issues
